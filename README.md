@@ -30,4 +30,4 @@ I automate the boring stuff, build data pipelines, and ship full-stack apps that
 
 ### 📫 Get in touch
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielpenero111@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielpenero111@gmail.com) danielpenero111@gmail.com
