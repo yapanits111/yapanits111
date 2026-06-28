@@ -20,8 +20,7 @@ I build data pipelines, automate the boring stuff, and turn messy data into thin
 
 ### 🚀 Featured projects
 
-- **[geckoETL](https://github.com/yapanits111/geckoETL)** — Crypto ETL pipeline (CoinGecko → PostgreSQL) with technical indicators, Discord alerts, and a Streamlit dashboard.
-- **[weatherPipeline](https://github.com/yapanits111/weatherPipeline)** — Automated weather data pipeline.
+- **[geckoETL](https://github.com/yapanits111/geckoETL)** — Crypto ETL pipeline (CoinGecko → PostgreSQL) with technical indicators and a Streamlit dashboard.
 - **[finalSubwayEmploymentDB](https://github.com/yapanits111/finalSubwayEmploymentDB)** — Employment database project.
 - **[hebrews-pos](https://github.com/yapanits111/hebrews-pos)** — Point-of-sale web app.
 
