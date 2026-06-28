@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Peñero 👋
 
-**Automation · Data Pipelines · Machine Learning**
+**Automation · Data Pipelines · Machine Learning · Software Engineering**
 
 I build data pipelines, automate the boring stuff, and turn messy data into things people can actually use.
 
