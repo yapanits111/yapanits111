@@ -22,7 +22,7 @@ I automate the boring stuff, build data pipelines, and ship full-stack apps that
 
 ### 🚀 Featured projects
 
-- **[geckoETL](https://github.com/yapanits111/geckoETL)** — Crypto ETL pipeline (CoinGecko → PostgreSQL) with technical indicators, Discord alerts, and a Streamlit dashboard.
+- **[geckoETL](https://github.com/yapanits111/geckoETL)** — Crypto ETL pipeline (CoinGecko → PostgreSQL) with technical indicators and a Streamlit dashboard.
 - **[finalSubwayEmploymentDB](https://github.com/yapanits111/finalSubwayEmploymentDB)** — Employment database project.
 - **[hebrews-pos](https://github.com/yapanits111/hebrews-pos)** — Point-of-sale web app.
 
