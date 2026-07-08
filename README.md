@@ -1,7 +1,7 @@
 # Hi, I'm Daniel Peñero 👋
 **Software Engineer · Data Pipelines · LLM Integration**
 
-I build full-stack apps, data pipelines, and AI-powered tools — and ship them to production. Currently looking for my first professional role in software engineering or data engineering.
+I build full-stack apps, data pipelines, and AI-powered tools — and ship them to production. Currently looking for my first professional role in software engineering or data.
 
 ---
 
