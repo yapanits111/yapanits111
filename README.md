@@ -1,7 +1,7 @@
 # Hi, I'm Daniel Peñero 👋
-**Software Engineer · Data Pipelines · LLM Integration**
+**Software Engineer · AI-Powered Systems · Full-Stack**
 
-I build full-stack apps, data pipelines, and AI-powered tools — and ship them to production. Currently looking for a role in software engineering or data.
+I build full-stack apps, RAG/LLM-powered tools, and data pipelines that people actually use — and I ship them to production. Currently looking for a role in software engineering or data.
 
 ---
 
@@ -12,24 +12,27 @@ I build full-stack apps, data pipelines, and AI-powered tools — and ship them 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
 ### 🚀 Featured projects
 
+**[labor-code-rag](https://github.com/yapanits111/labor-code-rag)** — [Live demo](https://labor-code-ph.onrender.com/)
+Hand-built RAG system answering Philippine labor law questions with a citation for every claim — no LangChain, no vector database: custom PDF parsing, chunking, embedding, and cosine-similarity retrieval. Evaluated against a 32-question test set with retrieval-vs-generation failure analysis: 32/32 correct with zero wrong or outdated citations. Python, FastAPI.
+
+**[kawayan-atlas](https://github.com/yapanits111/kawayan-atlas)** — [Live demo](https://kawayan-atlas-backend.vercel.app)
+Full-stack bamboo-construction design platform: a cited species atlas, joint library, and a browser-based parametric design tool with a custom geometry kernel and live 3D rendering. Structural calculator gated behind engineer sign-off, covered by 59 unit tests plus a CI-enforced API suite. Next.js, TypeScript, FastAPI, react-three-fiber.
+
 **[dota-analytics](https://github.com/yapanits111/dota-analytics)** — [Live demo](https://dota-analytics-cyan.vercel.app)
-Full-stack Dota 2 analytics platform. Search any Steam username → syncs match history via OpenDota API into PostgreSQL → ask questions in plain English, answered by an LLM via Text-to-SQL. Provider-agnostic: supports Gemini, Groq, and Claude. Built with FastAPI, React/TypeScript, Docker, deployed on Railway + Vercel.
+Full-stack Dota 2 analytics platform. Syncs match history via the OpenDota API into PostgreSQL, then answers plain-English questions via Text-to-SQL through a provider-agnostic LLM layer (Gemini, Groq, Claude). FastAPI, React/TypeScript, Docker.
 
-**[hebrews-pos](https://github.com/yapanits111/hebrews-pos)**
-Full-stack coffee shop POS and inventory system. Offline-first PWA with IndexedDB sync, PostgreSQL with Row Level Security, TypeScript Playwright E2E suite automated via GitHub Actions CI.
-
-**[geckoETL](https://github.com/yapanits111/geckoETL)**
-End-to-end crypto market data pipeline. CoinGecko REST API → Python ETL (retries, fault-tolerant extraction) → PostgreSQL with idempotent UPSERT loads → Streamlit dashboard with structured logging.
+**[geckoETL](https://github.com/yapanits111/geckoETL)** — [Live demo](https://geckoetl.streamlit.app)
+End-to-end crypto market data pipeline. CoinGecko REST API → Python ETL with retries and fault-tolerant extraction → PostgreSQL with idempotent UPSERT loads → Streamlit dashboard with structured logging.
 
 ---
 
