@@ -1,7 +1,7 @@
 # Hi, I'm Daniel Peñero 👋
 **Software Engineer · AI-Powered Systems · Full-Stack**
 
-I build full-stack apps, RAG/LLM-powered tools, and data pipelines that people actually use — and I ship them to production. Currently looking for a role in software engineering or data.
+I build full-stack apps, RAG/LLM-powered tools, and data pipelines that people could actually use — and I ship them to production. Currently looking for a role in software engineering or data.
 
 ---
 
