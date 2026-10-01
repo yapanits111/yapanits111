@@ -1,7 +1,7 @@
 # Hi, I'm Daniel Peñero 👋
 **Software Engineer · AI-Powered Systems · Full-Stack**
 
-I build full-stack apps, RAG/LLM-powered tools, and data pipelines that people could actually use — and I ship them to production. Currently looking for a role in software engineering or data.
+I build full-stack apps, RAG/LLM-powered tools, and data pipelines that people actually use — and I ship them to production. Currently looking for a role in software engineering or data.
 
 ---
 
@@ -25,7 +25,7 @@ I build full-stack apps, RAG/LLM-powered tools, and data pipelines that people c
 **[labor-code-rag](https://github.com/yapanits111/labor-code-rag)** — [Live demo](https://labor-code-ph.onrender.com/)
 Hand-built RAG system answering Philippine labor law questions with a citation for every claim — no LangChain, no vector database: custom PDF parsing, chunking, embedding, and cosine-similarity retrieval. Evaluated against a 32-question test set with retrieval-vs-generation failure analysis: 32/32 correct with zero wrong or outdated citations. Python, FastAPI.
 
-**[kawayan-atlas](https://github.com/yapanits111/kawayan-atlas)** — [Live demo -- Under Development](https://kawayan-atlas-backend.vercel.app)
+**[kawayan-atlas](https://github.com/yapanits111/kawayan-atlas)** — [Live demo — Under Development](https://kawayan-frontend.onrender.com/)
 Full-stack bamboo-construction design platform: a cited species atlas, joint library, and a browser-based parametric design tool with a custom geometry kernel and live 3D rendering. Structural calculator gated behind engineer sign-off, covered by 59 unit tests plus a CI-enforced API suite. Next.js, TypeScript, FastAPI, react-three-fiber.
 
 **[dota-analytics](https://github.com/yapanits111/dota-analytics)** — [Live demo](https://dota-analytics-cyan.vercel.app)
